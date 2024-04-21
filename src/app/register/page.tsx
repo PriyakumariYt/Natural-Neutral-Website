@@ -8,7 +8,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 import { AxiosError } from "axios";
 
-const RegisterForm= () => {
+const RegisterForm = () => {
   const router = useRouter();
   // const navigate = useNavigate()
   const [user, setUser] = React.useState({
@@ -114,7 +114,7 @@ const RegisterForm= () => {
         </form>
 
         <p className="mt-10 text-center text-sm text-gray-500">
-          Not a member? <LinkButton href="#" text="Register" />
+          Not a member? <Link href="#" >Register</Link>
         </p>
       </div>
     </div>
