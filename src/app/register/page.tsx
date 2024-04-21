@@ -177,32 +177,7 @@ const RegisterForm= () => {
           setButtonDisabled(true);
       }
   }, [user]);
-  // const router = useRouter();
-  // const [user, setUser] = React.useState({
-  //   username: "",
-  //   email: "",
-  //   password: "",
-  // });
-  // const [buttonDisabled, setButtonDisabled] = React.useState(false);
-  // const [loading, setLoading] = React.useState(false);
 
-  // const onSignup = async () => {
-  //   try {
-  //     setLoading(true);
-  //     const response = await axios.post("/api/register", user);
-  //     toast.success("Registration successful");
-  //     console.log("Registration success", response.data);
-  //     // Redirect to login page after successful registration
-  //     router.push("/login");
-  //   } catch (error: any) {
-  //     console.error("Registration failed", error.message);
-  //     toast.error(error.message);
-  //   } finally {
-  //     setLoading(false);
-  //   }
-  // };
-
-  // useEffect to enable/disable button based on form fields
   React.useEffect(() => {
     setButtonDisabled(!(user.email && user.password && user.username));
   }, [user]);
@@ -268,19 +243,12 @@ const RegisterForm= () => {
           </div>
         </form>
 
-        <p className="mt-10 text-center text-sm text-gray-500">
-          Not a member? <LinkButton href="#" text="Register" />
-        </p>
+       
       </div>
     </div>
   );
 };
 
-export const LinkButton: React.FC<{ href: string; text: string }> = ({ href, text }) => {
-  return (
-    <a href={href} className="font-semibold leading-6 text-cyan-600 hover:text-indigo-500">{text}</a>
-  );
-};
 
 export default RegisterForm;
 
