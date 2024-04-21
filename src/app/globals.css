@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+ background-image: linear-gradient(to right top, #367467, #2c6a61, #22605a, #185753, #0d4d4c, #084b4a, #044a48, #004846, #024e49, #07544b, #0f5a4c, #18604d);
+text-transform: capitalize;
+}
