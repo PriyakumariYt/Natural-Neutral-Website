@@ -1,12 +1,12 @@
-
-
+![home](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/1327ed77-d944-492d-a2cf-84ddf092d929)
+![gallery](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/f33c3ddf-2d23-4211-88d7-2af64822351f)
 ![3](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/e41b1a75-ca6d-474b-bec2-3a7aea896a1e)
 ![4](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/24a89048-66e8-4fff-bcef-38469b8036a7)
 ![5](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/c6d07e0c-5221-45b2-9874-e63f304558ce)
 ![6](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/73d5c56e-9645-4fa5-818b-a379f5bcb876)
 ![7](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/9335e1ca-da7b-4775-a629-c4ce5181c60d)
-![gallery](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/f33c3ddf-2d23-4211-88d7-2af64822351f)
-![home](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/1327ed77-d944-492d-a2cf-84ddf092d929)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
