@@ -1,5 +1,8 @@
+Home
 ![Screenshot (191)](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/59f2e36d-4dfb-4f26-8883-e4ba09a00e41)c
 
+Gallery
+![Screenshot (192)](https://github.com/PriyakumariYt/Natural-Nurture-Website/assets/127418517/6b00b13b-9d62-4c6f-b1c4-ef0a6029ff50)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
